@@ -27,8 +27,5 @@ namespace Ravi_Music_Library
             this.InitializeComponent();
         }
 
-        private void HamburgerButton_Click(object sender, RoutedEventArgs e)
-        { }
-
     }
 }
